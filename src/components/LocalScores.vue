@@ -33,7 +33,7 @@ export default {
         name: '',
         items: [],
         added: false, 
-        size: 5,
+        size: 10,
         allScores: null      
         }
 
