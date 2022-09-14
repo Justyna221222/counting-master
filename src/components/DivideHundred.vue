@@ -312,7 +312,7 @@ export default {
     margin: 2px;
     color: #550A35;
 }
-.keyboardButton:hover {
+.keyboardButton:active {
     background-color: #FEBEB4;
 }
 @media only screen and (min-width: 0px) and (max-width: 576px) {
