@@ -219,6 +219,9 @@ export default {
 .keyboardButton:hover {
     background-color: #FEBEB4;
 }
+.keyboardButton:active {
+    background-color: teal;
+}
 @media only screen and (min-width: 0px) and (max-width: 576px) {
     .example {
         font-size: 50px;
