@@ -49,7 +49,7 @@ export default {
             game_over: false,
             acc_time: 0,
             last_time: 0,
-            correct_to_win: 4,
+            correct_to_win: 20,
             average_time: 0,
             winWidth: 0
         };
